@@ -1,0 +1,1 @@
+from scr.Piece.piece import Piece 
